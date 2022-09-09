@@ -1,0 +1,8 @@
+[submodule "deps/kita"]
+	path = deps/kita
+	url = https://github.com/u16rogue/kita
+	shallow = true
+[submodule "deps/cryptopp-cmake"]
+	path = deps/cryptopp-cmake
+	url = https://github.com/abdes/cryptopp-cmake.git
+	shallow = true
